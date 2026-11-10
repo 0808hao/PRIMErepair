@@ -1,0 +1,26 @@
+Package: PRIMErepair
+Type: Package
+Title: Budgeted Certification of Minimum-Cost Prediction Alternatives
+Version: 0.1.0
+Authors@R: person("Hongdong", "Hao", email = "h294866@foxmail.com", role = c("aut", "cre", "cph"))
+Description: Selects minimum-input-cost prediction alternatives from a locked
+    candidate library subject to finite-pool, groupwise binary Brier-loss
+    constraints. Provides deterministic support certificates, separate
+    without-replacement confidence-sequence modes, shared-label portfolio
+    replay, and fixed-budget LURE point-estimation comparators. Candidate
+    predictions and public group definitions are fixed before querying labels.
+    Implements task adaptations of Waudby-Smith and Ramdas (2020)
+    <https://proceedings.neurips.cc/paper/2020/hash/e96c7de8f6390b1e6c71556e4e0a4959-Abstract.html>,
+    Hara et al. (2024) <doi:10.1007/s10994-024-06603-1>, and
+    Kossen et al. (2021) <https://proceedings.mlr.press/v139/kossen21a.html>.
+    Certificates concern the specified finite pool, not future populations.
+    Does not train models, identify leakage sources, or establish clinical safety.
+License: file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.3.0)
+Imports: stats, utils, tools
+NeedsCompilation: no
+ByteCompile: true
+Packaged: 2026-11-06 18:07:16 UTC; root
+Author: Hongdong Hao [aut, cre, cph]
+Maintainer: Hongdong Hao <h294866@foxmail.com>

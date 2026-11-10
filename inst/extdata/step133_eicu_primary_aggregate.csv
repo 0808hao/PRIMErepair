@@ -1,0 +1,24 @@
+"method","alpha","guarantee","mean_labels"
+"active_testing_reference",0,"deterministic support certificate; fixed pool",9851.78
+"age_stratified",0,"deterministic support certificate; fixed pool",16833.28
+"decision_focused",0,"deterministic support certificate; fixed pool",3494.4
+"hara_ensemble",0,"deterministic support certificate; fixed pool",6854.4
+"hara_reference",0,"deterministic support certificate; fixed pool",6734.72
+"highrisk_first",0,"deterministic support certificate; fixed pool",9344.62
+"pairwise_proxy",0,"deterministic support certificate; fixed pool",5158.4
+"portfolio_replay",0,"deterministic support certificate; fixed pool",4041.4
+"shared_width",0,"deterministic support certificate; fixed pool",5056
+"srs",0,"deterministic support certificate; fixed pool",16747.52
+"srs_lure",0,"deterministic support certificate; fixed pool",16782.08
+"decision_cell_residual_wor_EB",0.001,"statistical simultaneous anytime certificate; fixed pool",9867.39
+"srs_residual_wor_EB",0.001,"statistical simultaneous anytime certificate; fixed pool",15667.84
+"srs_wor_EB",0.001,"statistical simultaneous anytime certificate; fixed pool",15610.88
+"stratified_residual_wor_EB",0.001,"statistical simultaneous anytime certificate; fixed pool",16816.64
+"decision_cell_residual_wor_EB",0.01,"statistical simultaneous anytime certificate; fixed pool",9648.92
+"srs_residual_wor_EB",0.01,"statistical simultaneous anytime certificate; fixed pool",14874.88
+"srs_wor_EB",0.01,"statistical simultaneous anytime certificate; fixed pool",14806.4
+"stratified_residual_wor_EB",0.01,"statistical simultaneous anytime certificate; fixed pool",16816.64
+"decision_cell_residual_wor_EB",0.05,"statistical simultaneous anytime certificate; fixed pool",7026.56
+"srs_residual_wor_EB",0.05,"statistical simultaneous anytime certificate; fixed pool",14039.68
+"srs_wor_EB",0.05,"statistical simultaneous anytime certificate; fixed pool",13937.28
+"stratified_residual_wor_EB",0.05,"statistical simultaneous anytime certificate; fixed pool",16816.64

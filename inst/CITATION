@@ -1,0 +1,2 @@
+bibentry(bibtype = "Manual", title = "PRIMErepair: Budgeted Certification of Minimum-Cost Prediction Alternatives",
+  author = person("Hongdong", "Hao"), year = "2026", note = "R package version 0.1.0; research software")

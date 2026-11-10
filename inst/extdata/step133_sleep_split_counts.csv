@@ -1,0 +1,4 @@
+"role","epochs","subjects","REM_epochs"
+"development",40000,48,2833
+"audit",16000,16,1052
+"test",20000,16,1588
